@@ -43,7 +43,7 @@ That last one is pretty vague, but basically, once you have a symlink to your da
 
 I'm digging this setup. It pretty easily adds real, Git based, revision control to my workflow. Obviously people I collaborate would need to be a little GitHub savvy, but that's ok with me for this sort of thing!
 
-Now that this is all in place. If you see a typo, you can [submit a pull-request]() to me. Yay!
+Now that this is all in place. If you see a typo, you can [submit a pull-request](https://github.com/micahwalter/blogs-003-my-writing-setup) to me. Yay!
 
 
 
