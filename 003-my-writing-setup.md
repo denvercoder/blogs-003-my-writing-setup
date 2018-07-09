@@ -31,7 +31,7 @@ For 5 and 6, here's what I did, late last night, so your miles may vary.
 $ ln -s /Users/<username>/Library/Mobile\ Documents/27N4MQEA55~pro~writer/Documents Writer
 ```
 
-4. Use GutHub
+4. Use GitHub
 
 That last one is pretty vague, but basically, once you have a symlink to your data, it's pretty easy to set up any kind of git repositories you'd like within. Here's what I'm doing.
 
